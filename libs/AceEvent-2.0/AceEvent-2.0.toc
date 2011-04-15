@@ -1,0 +1,18 @@
+## Interface: 30000
+## X-Curse-Packaged-Version: r1093
+## X-Curse-Packaged-Version: v0.14
+## X-Curse-Packaged-Version: 0.26
+## X-Curse-Project-Name: FuBarLoginTimerFu
+## X-Curse-Project-ID: logintimerfu
+## X-Curse-Repository-ID: wow/logintimerfu/mainline
+
+## Title: Lib: AceEvent-2.0
+## Notes: AddOn development framework
+## Author: Ace Development Team
+## LoadOnDemand: 1
+## X-Website: http://www.wowace.com
+## X-Category: Library
+## X-License: LGPL v2.1 + MIT for AceOO-2.0
+## Dependencies: AceLibrary, AceOO-2.0
+ 
+AceEvent-2.0.lua

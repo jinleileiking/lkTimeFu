@@ -1,0 +1,18 @@
+﻿## Interface: 30100
+## Title: lkFuBar - |cffffffffAtlasTimer|r|cff00ff00Fu|r
+## Author: jinleileiking
+## Version: 091024b
+## Notes: Shows how long you've been in atlas.
+## Notes-zhCN: 显示你在副本多长时间
+## Dependencies: FuBar
+## SavedVariables: lkFuBar_AtlasTimeFu
+## X-Category: Interface Enhancements
+## X-eMail: jinleileiking@gmail.com
+## X-Website:
+## OptionalDeps: Ace2, FuBarPlugin-2.0, Tablet-2.0
+## LoadOnDemand: 0
+
+
+
+embeds.xml
+lkFuBar_AtlasTimerFu.lua
